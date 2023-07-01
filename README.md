@@ -1,6 +1,6 @@
 #### I'm Marco, I have more than 10 years of experience in QA, I have also worked as a frontend developer, but my passion is on the testing side. In these years I have had the joy of working in different roles and with different technologies. 
 
-#### My profile: [Details](https://github.com/marcoolsen)
+#### My profile: [Github-Profile](https://github.com/marcoolsen)
 
 #### My main focuses are:
 
