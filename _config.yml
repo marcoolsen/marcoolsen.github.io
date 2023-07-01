@@ -1,7 +1,5 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-show_downloads: true
-theme: jekyll-theme-time-machine
-title: [Marco Olsen QA - Repo]
+title: [Marco Olsen QA - Repos]
 description: [QA projects]
