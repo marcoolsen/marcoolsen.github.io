@@ -1,4 +1,8 @@
-### I'm Marco, I have more than 10 years of experience in QA, I have also worked as a frontend developer, but my passion is on the testing side. In these years I have had the joy of working in different roles and with different technologies. My main focuses are:
+#### I'm Marco, I have more than 10 years of experience in QA, I have also worked as a frontend developer, but my passion is on the testing side. In these years I have had the joy of working in different roles and with different technologies. 
+
+#### My profile: [Details](https://github.com/marcoolsen)
+
+#### My main focuses are:
 
 - Automation 🔥
     - Cypress 
@@ -35,6 +39,6 @@
 
 ### I really like QA certifications, therefore I have obtained 3 so far:
 
-- Certified Tester Foundation Level : _([Details](https://www.istqb.org/certifications/certified-tester-foundation-level-v3-1)
-- Certified Tester Foundation Level Agile Tester : _([Details](https://www.istqb.org/certifications/agile-tester)
-- Certified Tester Test Automation Engineer : _([Details](https://www.istqb.org/certifications/test-automation-engineer)
+- Certified Tester Foundation Level : [Details](https://www.istqb.org/certifications/certified-tester-foundation-level-v3-1)
+- Certified Tester Foundation Level Agile Tester : [Details](https://www.istqb.org/certifications/agile-tester)
+- Certified Tester Test Automation Engineer : [Details](https://www.istqb.org/certifications/test-automation-engineer)
