@@ -35,6 +35,6 @@
 
 ### I really like QA certifications, therefore I have obtained 3 so far:
 
-- Certified Tester Foundation Level : (https://www.istqb.org/certifications/certified-tester-foundation-level-v3-1)
-- Certified Tester Foundation Level Agile Tester : (https://www.istqb.org/certifications/agile-tester)
-- Certified Tester Test Automation Engineer : (https://www.istqb.org/certifications/test-automation-engineer)
+- Certified Tester Foundation Level : _([Details](https://www.istqb.org/certifications/certified-tester-foundation-level-v3-1)
+- Certified Tester Foundation Level Agile Tester : _([Details](https://www.istqb.org/certifications/agile-tester)
+- Certified Tester Test Automation Engineer : _([Details](https://www.istqb.org/certifications/test-automation-engineer)
